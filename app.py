@@ -353,7 +353,7 @@ def main():
     # --- Footer ---
     st.markdown(
         '<p style="text-align:center;color:#ADB5BD;font-size:0.8rem;margin-top:2rem;">'
-        'Group 5 — Alchemist · Data Science Batch 60 · Digital Skola</p>',
+        'Andri Budi Setiawan</p>',
         unsafe_allow_html=True
     )
 
