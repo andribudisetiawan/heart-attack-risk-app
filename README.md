@@ -1,7 +1,6 @@
 # 🫀 Heart Attack Risk Prediction — Streamlit App
 
 Aplikasi web untuk memprediksi risiko serangan jantung menggunakan model machine learning.
-**Group 5 (Pandas) · Data Science Batch 60 · Digital Skola**
 
 ---
 
